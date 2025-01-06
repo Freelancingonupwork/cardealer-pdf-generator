@@ -1,0 +1,151 @@
+# Copyright (C) {2024} Potenza Global Solutions
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Dealer - PDF Generator 2.0.2\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/cardealer-pdf-generator\n"
+"POT-Creation-Date: 2024-02-09 07:21:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-02-09 07:21:09+0000\n"
+"Last-Translator: Potenza Global Solutions "
+"http://www.potenzaglobalsolutions.com/\n"
+"Language-Team: Potenza Global Solutions "
+"http://www.potenzaglobalsolutions.com/\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPathExcluded-0: .vscode\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: vendor-lib\n"
+"X-Poedit-SearchPathExcluded-3: includes/cpts/cores\n"
+"X-Poedit-SearchPathExcluded-4: node_modules\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: cardealer-pdf-generator.php:130
+msgid ""
+"PDF generated successfully. Generated PDF is assigned to the <strong>PDF "
+"Brochure</strong> field."
+msgstr ""
+
+#: cardealer-pdf-generator.php:141 inc/cpts/cars.php:94
+msgid "Download PDF"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:75 inc/cdpg-option-pages.php:12
+msgid "Vehicle Brochure Generator"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:79
+msgid "HTML Templates"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:98
+msgid "Templates Title"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:117
+msgid "Template Content"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:136
+msgid "Set Custom Margin?"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:139
+msgid "If custom margin is not set, the default value will be used."
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:159
+msgid "Template Margin Top"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:186
+msgid "Template Margin Bottom"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:213
+msgid "Template Margin Left"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:240
+msgid "Template Margin Right"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:319
+msgid "Reset Templates"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:323
+msgid "Click the above button to reset all templates to default."
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:329
+msgid "Fields"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:342
+msgid "Display Fields"
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:344
+msgid ""
+"Click the above button to display list of fields. Use this fields "
+"association to make or update the vehicle brochure template."
+msgstr ""
+
+#: inc/acf/fields/pdf-generator.php:346
+msgid "Vehicle Fields Association"
+msgstr ""
+
+#: inc/cdpg-option-pages.php:13
+msgid "PDF Brochure Generator"
+msgstr ""
+
+#: inc/cpts/cars.php:17
+msgid "Brochure generator"
+msgstr ""
+
+#: inc/cpts/cars.php:56
+msgid "Choose Template"
+msgstr ""
+
+#: inc/cpts/cars.php:71
+msgid "Generate"
+msgstr ""
+
+#: inc/cpts/cars.php:121
+msgid "PDF generated successfully."
+msgstr ""
+
+#: inc/cpts/cars.php:129
+#. translators: exception message
+msgid "Something went wrong. Caught exception: %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Car Dealer - PDF Generator"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.potenzaglobalsolutions.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin contains PDF generation functionality for the \"Car Dealer\" "
+"theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Potenza Global Solutions"
+msgstr ""

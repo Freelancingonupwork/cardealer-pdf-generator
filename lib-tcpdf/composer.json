@@ -1,0 +1,28 @@
+{
+	"config": {
+        "vendor-dir": "lib-vendor",
+		"dev-files": {
+			"match-case": false,
+			"remove-empty-dirs": false,
+			"no-dev-only": false
+		},
+		"allow-plugins": {
+			"liborm85/composer-vendor-cleaner": true
+		}
+    },
+	"require": {
+		"tecnickcom/tcpdf": "^6.6"
+	},
+	"extra": {
+		"dev-files": {
+			"progsmile/request-validator": [
+				"docs/",
+				"tests/"
+			],
+			"respect/validation": [
+				"docs/",
+				"tests/"
+			]
+		}
+	}
+}
